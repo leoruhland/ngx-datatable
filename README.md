@@ -1,9 +1,11 @@
-# ngx-datatable
+# ngx-datatable (fork)
+
+Check out the [stackblitz](http://swimlane.github.io/ngx-datatable/)
 
 [![Join the chat at https://gitter.im/swimlane/ngx-datatable](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/swimlane/ngx-datatable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Code Climate](https://codeclimate.com/github/swimlane/ngx-datatable/badges/gpa.svg)](https://codeclimate.com/github/swimlane/ngx-datatable)
 [![Test Coverage](https://codeclimate.com/github/swimlane/ngx-datatable/badges/coverage.svg)](https://codeclimate.com/github/swimlane/ngx-datatable/coverage)
-[![npm version](https://badge.fury.io/js/%40swimlane%2Fngx-datatable.svg)](https://badge.fury.io/js/%40swimlane%2Fngx-datatable)
+[![npm version](https://badge.fury.io/js/@boring.devs%2Fngx-datatable.svg)](https://badge.fury.io/js/@boring.devs%2Fngx-datatable)
 [![npm downloads](https://img.shields.io/npm/dm/@swimlane/ngx-datatable.svg)](https://npmjs.org/@swimlane/ngx-datatable)
 
 `ngx-datatable` is an Angular component for presenting large and complex data. It has all the features you would expect from any other table but in a light package with _no external dependencies_. The table was designed to be extremely flexible and light; it doesn't make any assumptions about your data or how you: filter, sort or page it.
@@ -34,10 +36,10 @@ See the [changelog](https://github.com/swimlane/ngx-datatable/blob/master/docs/c
 
 ## Installation
 
-To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@swimlane/ngx-datatable):
+To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@boring.devs/ngx-datatable):
 
 ```
-npm i @swimlane/ngx-datatable --save
+npm i @boring.devs/ngx-datatable --save
 ```
 
 ## Credits
