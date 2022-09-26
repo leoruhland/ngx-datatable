@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~14.2.3",
-    "@angular/cli": "~13.1.2",
+    "@angular/cli": "~14.2.3",
     "@angular/compiler-cli": "^14.2.3",
     "@angular/language-service": "^14.2.3",
     "@swimlane/prettier-config-swimlane": "^3.0.2",
